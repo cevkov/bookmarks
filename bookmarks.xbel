@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :4: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <bookmark href="https://www.learnix-os.com/" id="3">
+    <title>Introduction - The LearnixOS Book</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=PBxF6zhcFq4" id="4">
+    <title>【佳子さま】アクロポリスの風に吹かれて ギリシャカラーに装いパルテノン神殿視察【完全版】(2024年5月27日) - YouTube</title>
+  </bookmark>
+</folder>
+</xbel>
